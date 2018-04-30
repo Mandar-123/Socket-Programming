@@ -12,7 +12,9 @@
 - OUTPUT
 
   - Client 1: // Request processed first
-  <p align="center"><img src="Iterative_TCP/Res/1.png" width="80%"></p>
+  
+  <p align="center"><img src="Res/1.png" width="80%"/></p>
   
   - Client 2: // Request is processed after request from first client is processed
-  <p align="center"><img src="Iterative_TCP/Res/1.png" width="80%"></p>
+  
+  <p align="center"><img src="Res/2.png" width="80%"/></p>
